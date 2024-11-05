@@ -1,1 +1,1 @@
-This is a sameple repository for all databricks concepts
+This is a sample repository for all databricks concepts
